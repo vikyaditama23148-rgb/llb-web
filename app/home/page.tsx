@@ -212,9 +212,9 @@ export default function HomePage() {
             </div>
           </div>
 
-          <div className="font-terminal text-xs text-center mt-2" style={{ color: 'rgba(0,255,65,0.15)' }}>
-            // wajah-wajah di atas tidak bertanggung jawab atas kerusakan yang terjadi
-          </div>
+          <div className="font-terminal text-xs text-center mt-2" style={{ color: 'rgba(0,255,65,0.75)' }}>
+  // wajah-wajah di atas tidak bertanggung jawab atas kerusakan yang terjadi
+</div>
         </motion.div>
 
         {/* ─── DATABASE HEADER ─── */}
