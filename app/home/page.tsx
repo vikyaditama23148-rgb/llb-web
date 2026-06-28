@@ -147,9 +147,8 @@ export default function HomePage() {
           </div>
 
           <GlitchText text="L.L.B" as="h1" intensity="high" color="green"
-            className="font-vt323 block mb-1"
-            style={{ fontSize: 'clamp(4rem, 18vw, 7rem)', textShadow: '0 0 40px #00ff41, 0 0 80px rgba(0,255,65,0.3)' } as React.CSSProperties}
-          />
+  className="font-vt323 block mb-1 text-6xl md:text-9xl"
+/>
 
           <div className="font-terminal text-xs md:text-sm text-green mb-2" style={{ letterSpacing: '0.5em', opacity: 0.7 }}>
             L E M E S · L O N G O R · B U G G U N G
